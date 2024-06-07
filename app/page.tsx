@@ -1,7 +1,9 @@
+import { Typography } from "@mui/material";
+
 export default function Home() {
   return (
     <main>
-      <h1>HELLO</h1>
+      <Typography variant="h1">Next.js + Material UI</Typography>
     </main>
   );
 }
